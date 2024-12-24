@@ -1,11 +1,14 @@
 ### Data Professionals Survey Analysis Report
 
+
 ---
 
 #### **Introduction**
 This report provides a comprehensive analysis of survey responses collected from data professionals. The primary objective was to understand key trends in the data industry, such as salary distributions, favorite tools and languages, education levels, and overall happiness in current roles. The dataset, cleaned and organized in SQL, was visualized using Power BI to generate actionable insights.
 
 ---
+## Dashboard Overview
+![Dashboard](https://github.com/ilhemdjenane/Data-Professionals-Survey-Analysis/blob/bc99597a09a3aacacc8ae325064af1f21587e7ad/Dashboard)
 
 #### **Data Cleaning and Organization**
 
