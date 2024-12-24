@@ -20,8 +20,8 @@ The raw dataset required significant preprocessing to ensure accuracy and usabil
    - Removed unnecessary columns such as "Email," "Browser," and "Time Spent" to streamline the dataset.
    - Renamed columns (e.g., "Q1 - Which Title Best Fits your Current Role?" to "CurrentJob") for better readability.
 3. **Error Corrections:**
-   - Fixed numerous typos in the "CurrentJob" column (e.g., "Business Analys" corrected to "Business Analyst").
-   - Standardized entries in the "Country" column, addressing typos and inconsistencies (e.g., "Brazik" corrected to "Brazil").
+   - Fixed numerous typos in the "CurrentJob" column.
+   - Standardized entries in the "Country" column, addressing typos and inconsistencies.
 4. **Categorization:**
    - Created new columns for "JobCategory" and "IndustryCategory" using SQL `UPDATE` and `CASE` statements.
    - Grouped similar job titles and industries into meaningful categories (e.g., "Data Analyst" and "Financial Analyst" grouped under "Analytics").
@@ -51,21 +51,21 @@ The Power BI dashboard highlights several important trends:
 
 2. **Favorite Programming Languages:**
    - Python dominates as the most preferred language among respondents, followed by SQL and R.
-   - Notable percentages prefer no programming language, indicating a diverse set of backgrounds in data professionals.
 
 3. **Education Levels:**
-   - Most respondents hold a Master’s degree, followed by Bachelor’s degrees.
+   - Most respondents hold a Bachelor's degree (57%), followed by Master’s degrees (33%).
    - High school and Associate degrees represent a smaller proportion of the dataset.
 
 4. **Gender-Based Salary Distribution:**
-   - The average salary distribution is nearly equal between male and female respondents (51% male, 49% female).
+   - The average salary distribution is nearly equal between male and female respondents (51% female, 49% male).
 
 5. **Difficulty Breaking into Data:**
-   - 36% reported "Very Difficult," while 20% found it "Very Easy," highlighting the varied paths to entering the field.
+   - 42% reported "Neither Difficult nor Easy" while 25% found it "Difficult", highlighting the varied paths to entering the field.
 
 6. **Overall Happiness:**
    - Average happiness score: 5.26/10.
-   - Management and upward mobility were the lowest-rated factors.
+   - Personal Services reported the highest score happiness (8/10)
+   - Management were happiness score (2.67/10).
 
 ---
 
