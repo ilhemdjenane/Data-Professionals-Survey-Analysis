@@ -8,7 +8,7 @@ This report provides a comprehensive analysis of survey responses collected from
 
 ---
 ## Dashboard Overview
-![Dashboard](https://github.com/ilhemdjenane/Data-Professionals-Survey-Analysis/blob/bc99597a09a3aacacc8ae325064af1f21587e7ad/Dashboard)
+![Dashboard](https://github.com/ilhemdjenane/Data-Professionals-Survey-Analysis/blob/0e69479bed19022e289cb5ce642ef1a47e7b26a7/Screenshot_2024_12_30-5.png)
 
 #### **Data Cleaning and Organization**
 
